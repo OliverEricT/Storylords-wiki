@@ -1,0 +1,7 @@
+==== Dogman ====
+
+A creature that is part dog and part human. Surprise, fucking, Surprise
+
+=== Features in Episodes ===
+
+  - [[meta:episodes:episode1|Episode 1]]
