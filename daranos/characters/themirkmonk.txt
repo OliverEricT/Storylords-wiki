@@ -2,7 +2,11 @@
 
 A loving family-mirkmonk who will do anything to help his family out, including yelling at anybody anywhere and anytime.
 
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
+
 === Features in Episodes ===
 
-  - [[meta:episodes:episode1|Fish & Chips]]
+  - [[meta:episodes:episode1|Episode 1]]
 
+</details>

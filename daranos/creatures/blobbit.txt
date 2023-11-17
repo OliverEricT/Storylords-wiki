@@ -4,6 +4,11 @@ A small creature that inhabits [[daranos:daranos|Daranos]].
 
 One of them was known for being good at [[daranos:sports:orcsketball|orcsketball]], despite it being a tall man's game.
 
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
+
 === Features in Episodes ===
 
   - [[meta:episodes:episode1|Episode 1]]
+
+</details>

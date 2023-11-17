@@ -2,8 +2,13 @@
 
 One of the most common and prolific races in all of [[daranos:daranos|Daranos]]
 
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
+
 === Features in Episodes ===
 
 if might be easier to list the episodes they are not in...
 
   - [[meta:episodes:episode1|Episode 1]]
+
+</details>

@@ -2,6 +2,11 @@
 
 A sport that exists in [[daranos:daranos|Daranos]]. Not much is known of this righteous game.
 
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
+
 === Features in Episodes ===
 
   - [[meta:episodes:episode1|Episode 1]]
+
+</details>
