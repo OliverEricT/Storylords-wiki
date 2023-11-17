@@ -11,3 +11,4 @@
 	* [[daranos:creatures:sandmonster|Sandmonster]]
 	* [[daranos:creatures:skeleman|Skeleman]]
 	* [[daranos:creatures:titty|Titty]]
+	* [[daranos:creatures:troll|Troll]]
