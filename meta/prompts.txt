@@ -1,0 +1,17 @@
+==== List of Prompts ====
+
+the following format:
+
+ link the the episode - person who submitted
+
+=== Unused Prompts ===
+
+  * Bildungsroman - Malaknight
+	* Roman Buildings - Malaknight
+
+=== Used Prompts ===
+
+	* [[meta:episodes:episode2|Breweries]] -
+  * [[meta:episodes:episode1|Chips]] -
+	* [[meta:episodes:episode1|Fish]] - 
+  * [[meta:episodes:episode2|Portraits]] - 

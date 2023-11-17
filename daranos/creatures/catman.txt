@@ -2,6 +2,11 @@
 
 A race of creatures that are, you guessed it, part man and part cat.
 
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
+
 === Features in Episodes ===
 
   - [[meta:episodes:episode1|Episode 1]]
+
+</details>

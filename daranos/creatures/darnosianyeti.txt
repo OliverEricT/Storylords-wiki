@@ -2,7 +2,11 @@
 
 A yeti native to Daranos, that is known for having 3 dicks
 
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
+
 === Features in Episodes ===
 
   - [[meta:episodes:episode1|Episode 1]]
 
+</details>

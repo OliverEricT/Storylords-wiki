@@ -1,0 +1,12 @@
+==== Mirkelf ====
+
+As of yet we do not know much about this mysterious creature. However our scholors believe it is part [[daranos:creatures:mirkmonk|mirkmonk]] and part [[daranos:creatures:human|human]].
+
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
+
+=== Features in Episodes ===
+
+  - [[meta:episodes:episode1|Episode 1]]
+
+</details>

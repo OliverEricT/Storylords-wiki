@@ -4,9 +4,11 @@ Just a man who loves his wife, [[daranos:characters:milly|Milly]], so much so th
 
 Also known for loving steak fries. (Steak fries rule!)
 
-=== Appearences ===
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
 
-In order of appearence
+=== Features in Episodes ===
 
-  - [[meta:episodes:epsiode1|Episode 1]]
+  - [[meta:episodes:episode1|Episode 1]]
 
+</details>

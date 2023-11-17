@@ -2,6 +2,11 @@
 
 a monster known for having a particularly sandy asshole
 
+<details>
+<summary>Spoilers: Potential Spoilers</summary>
+
 === Features in Episodes ===
 
   - [[meta:episodes:episode1|Episode 1]]
+
+</details>

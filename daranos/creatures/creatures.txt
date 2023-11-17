@@ -1,0 +1,14 @@
+==== List of all Creatures ====
+
+  * [[daranos:creatures:blobbit|Blobbit]]
+	* [[daranos:creatures:catman|Catman]]
+	* [[daranos:creatures:darnosianyeti|Daranosian Yeti]]
+	* [[daranos:creatures:dogman|Dogman]]
+	* [[daranos:creatures:goblin|Goblin]]
+	* [[daranos:creatures:human|Human]]
+	* [[daranos:creatures:mirkelf|Mirkelf]]
+	* [[daranos:creatures:orc|Orc]]
+	* [[daranos:creatures:sandmonster|Sandmonster]]
+	* [[daranos:creatures:skeleman|Skeleman]]
+	* [[daranos:creatures:titty|Titty]]
+	* [[daranos:creatures:troll|Troll]]
